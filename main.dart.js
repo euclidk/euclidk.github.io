@@ -57441,7 +57441,7 @@ if(a.v(0,B.bf)||a.v(0,B.al))return B.i
 return B.cY},
 $S:35}
 A.Ci.prototype={
-O(a){return new A.te(B.A1,"Flutter Demo",A.ads(null,$.ai_(),B.fr,null),null)}}
+O(a){return new A.te(B.A1,"Euclid Kosasih",A.ads(null,$.ai_(),B.fr,null),null)}}
 A.oa.prototype={}
 A.ry.prototype={
 am(){return new A.HK(B.l)}}
